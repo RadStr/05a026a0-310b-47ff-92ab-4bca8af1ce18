@@ -1,0 +1,161 @@
+{
+  "identifier": "f51ed57a-f724-49e1-8f24-877865692bef",
+  "version": 1,
+  "type": "http://dataspecer.com/resources/local/visual-model",
+  "entities": [
+    {
+      "identifier": "f51ed57a-f724-49e1-8f24-877865692bef-model-metadata-entity",
+      "type": [
+        "entity-model-type"
+      ],
+      "label": {
+        "en": "Anonymous model"
+      }
+    },
+    {
+      "model": "http://dataspecer.com/packages/local-root/05a026a0-310b-47ff-92ab-4bca8af1ce18/vocabulary",
+      "representedEntity": "https://w3id.org/dsv#ApplicationProfileSpecificationDocument",
+      "position": {
+        "x": 600,
+        "y": 420,
+        "anchored": null
+      },
+      "content": [],
+      "visualModels": [],
+      "type": [
+        "visual-node"
+      ],
+      "identifier": "4i1xg"
+    },
+    {
+      "model": "http://dataspecer.com/packages/local-root/05a026a0-310b-47ff-92ab-4bca8af1ce18/vocabulary",
+      "representedEntity": "https://w3id.org/dsv#ApplicationProfile",
+      "position": {
+        "x": 460,
+        "y": 140,
+        "anchored": null
+      },
+      "content": [],
+      "visualModels": [],
+      "type": [
+        "visual-node"
+      ],
+      "identifier": "52sqa"
+    },
+    {
+      "model": "http://dataspecer.com/packages/local-root/05a026a0-310b-47ff-92ab-4bca8af1ce18/vocabulary",
+      "representedEntity": "https://w3id.org/dsv#InvalidTermProfile",
+      "position": {
+        "x": 910,
+        "y": 200,
+        "anchored": null
+      },
+      "content": [],
+      "visualModels": [],
+      "type": [
+        "visual-node"
+      ],
+      "identifier": "s3yke"
+    },
+    {
+      "model": "http://dataspecer.com/packages/local-root/05a026a0-310b-47ff-92ab-4bca8af1ce18/ba11c9c3-e0b2-44ca-9bd5-1c73cc555513",
+      "representedEntity": "http://purl.org/dc/terms/FileFormat",
+      "position": {
+        "x": 190,
+        "y": 570,
+        "anchored": null
+      },
+      "content": [],
+      "visualModels": [],
+      "type": [
+        "visual-node"
+      ],
+      "identifier": "0qx53"
+    },
+    {
+      "model": "http://dataspecer.com/packages/local-root/05a026a0-310b-47ff-92ab-4bca8af1ce18/vocabulary",
+      "representedEntity": "https://w3id.org/dsv#ObjectPropertyProfile",
+      "position": {
+        "x": 580,
+        "y": 660,
+        "anchored": null
+      },
+      "content": [],
+      "visualModels": [],
+      "type": [
+        "visual-node"
+      ],
+      "identifier": "9dq5i"
+    },
+    {
+      "model": "http://dataspecer.com/packages/local-root/05a026a0-310b-47ff-92ab-4bca8af1ce18/vocabulary",
+      "representedEntity": "https://w3id.org/dsv#TermProfile",
+      "position": {
+        "x": 1280,
+        "y": 360,
+        "anchored": null
+      },
+      "content": [],
+      "visualModels": [],
+      "type": [
+        "visual-node"
+      ],
+      "identifier": "f0spd"
+    },
+    {
+      "model": "http://dataspecer.com/packages/local-root/05a026a0-310b-47ff-92ab-4bca8af1ce18/vocabulary",
+      "representedRelationship": "https://dataspecer.com/semantic-models/generalizationfromIri=https%3A%2F%2Fw3id.org%2Fdsv%23InvalidTermProfile&toIri=https%3A%2F%2Fw3id.org%2Fdsv%23TermProfile",
+      "waypoints": [],
+      "visualSource": "s3yke",
+      "visualTarget": "f0spd",
+      "type": [
+        "visual-relationship"
+      ],
+      "identifier": "rui8yk"
+    },
+    {
+      "model": "http://dataspecer.com/packages/local-root/05a026a0-310b-47ff-92ab-4bca8af1ce18/vocabulary",
+      "representedRelationship": "https://w3id.org/dsv#specializes",
+      "waypoints": [
+        {
+          "x": 1160,
+          "y": 370,
+          "anchored": null
+        },
+        {
+          "x": 1160,
+          "y": 410,
+          "anchored": null
+        }
+      ],
+      "visualSource": "f0spd",
+      "visualTarget": "f0spd",
+      "type": [
+        "visual-relationship"
+      ],
+      "identifier": "0lqp9"
+    },
+    {
+      "model": "http://dataspecer.com/packages/local-root/05a026a0-310b-47ff-92ab-4bca8af1ce18/vocabulary",
+      "representedRelationship": "https://w3id.org/dsv#profileOf",
+      "waypoints": [
+        {
+          "x": 1160,
+          "y": 370,
+          "anchored": null
+        },
+        {
+          "x": 1160,
+          "y": 410,
+          "anchored": null
+        }
+      ],
+      "visualSource": "f0spd",
+      "visualTarget": "f0spd",
+      "type": [
+        "visual-relationship"
+      ],
+      "identifier": "xaz07k"
+    }
+  ]
+}
