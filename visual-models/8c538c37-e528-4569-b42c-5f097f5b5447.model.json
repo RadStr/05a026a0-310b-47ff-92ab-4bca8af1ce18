@@ -1,5 +1,5 @@
 {
-  "identifier": "f51ed57a-f724-49e1-8f24-877865692bef",
+  "identifier": "ea3918ca-556f-4dca-954d-58d1145b7d92",
   "version": 1,
   "type": "http://dataspecer.com/resources/local/visual-model",
   "entities": [
@@ -13,7 +13,7 @@
       }
     },
     {
-      "model": "http://dataspecer.com/packages/local-root/05a026a0-310b-47ff-92ab-4bca8af1ce18/vocabulary",
+      "model": "7d987ac9-02f0-4482-a669-485820cfe582",
       "representedEntity": "https://w3id.org/dsv#ApplicationProfileSpecificationDocument",
       "position": {
         "x": 600,
@@ -28,7 +28,7 @@
       "identifier": "4i1xg"
     },
     {
-      "model": "http://dataspecer.com/packages/local-root/05a026a0-310b-47ff-92ab-4bca8af1ce18/vocabulary",
+      "model": "7d987ac9-02f0-4482-a669-485820cfe582",
       "representedEntity": "https://w3id.org/dsv#ApplicationProfile",
       "position": {
         "x": 460,
@@ -43,7 +43,7 @@
       "identifier": "52sqa"
     },
     {
-      "model": "http://dataspecer.com/packages/local-root/05a026a0-310b-47ff-92ab-4bca8af1ce18/vocabulary",
+      "model": "7d987ac9-02f0-4482-a669-485820cfe582",
       "representedEntity": "https://w3id.org/dsv#InvalidTermProfile",
       "position": {
         "x": 910,
@@ -58,7 +58,7 @@
       "identifier": "s3yke"
     },
     {
-      "model": "http://dataspecer.com/packages/local-root/05a026a0-310b-47ff-92ab-4bca8af1ce18/ba11c9c3-e0b2-44ca-9bd5-1c73cc555513",
+      "model": "044451f7-3cb4-467d-92f4-f65068022541",
       "representedEntity": "http://purl.org/dc/terms/FileFormat",
       "position": {
         "x": 190,
@@ -73,7 +73,7 @@
       "identifier": "0qx53"
     },
     {
-      "model": "http://dataspecer.com/packages/local-root/05a026a0-310b-47ff-92ab-4bca8af1ce18/vocabulary",
+      "model": "7d987ac9-02f0-4482-a669-485820cfe582",
       "representedEntity": "https://w3id.org/dsv#ObjectPropertyProfile",
       "position": {
         "x": 580,
@@ -88,7 +88,7 @@
       "identifier": "9dq5i"
     },
     {
-      "model": "http://dataspecer.com/packages/local-root/05a026a0-310b-47ff-92ab-4bca8af1ce18/vocabulary",
+      "model": "7d987ac9-02f0-4482-a669-485820cfe582",
       "representedEntity": "https://w3id.org/dsv#TermProfile",
       "position": {
         "x": 1280,
@@ -103,7 +103,7 @@
       "identifier": "f0spd"
     },
     {
-      "model": "http://dataspecer.com/packages/local-root/05a026a0-310b-47ff-92ab-4bca8af1ce18/vocabulary",
+      "model": "7d987ac9-02f0-4482-a669-485820cfe582",
       "representedRelationship": "https://dataspecer.com/semantic-models/generalizationfromIri=https%3A%2F%2Fw3id.org%2Fdsv%23InvalidTermProfile&toIri=https%3A%2F%2Fw3id.org%2Fdsv%23TermProfile",
       "waypoints": [],
       "visualSource": "s3yke",
@@ -114,7 +114,7 @@
       "identifier": "rui8yk"
     },
     {
-      "model": "http://dataspecer.com/packages/local-root/05a026a0-310b-47ff-92ab-4bca8af1ce18/vocabulary",
+      "model": "7d987ac9-02f0-4482-a669-485820cfe582",
       "representedRelationship": "https://w3id.org/dsv#specializes",
       "waypoints": [
         {
@@ -136,7 +136,7 @@
       "identifier": "0lqp9"
     },
     {
-      "model": "http://dataspecer.com/packages/local-root/05a026a0-310b-47ff-92ab-4bca8af1ce18/vocabulary",
+      "model": "7d987ac9-02f0-4482-a669-485820cfe582",
       "representedRelationship": "https://w3id.org/dsv#profileOf",
       "waypoints": [
         {
